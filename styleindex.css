@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Chango&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #ffd56b;
+}
+h1{
+    color: #073B4C;
+    font-size: 40px;
+
+}
+.top{
+    height: fit-content;
+    padding: 30px 120px;
+    background-color: gray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+a{
+    color: #073B4C;
+    font-size: 25px;
+    width: 144px;
+    height: 100%;
+    padding: 5px 0px;
+    background-color: rgb(161, 161, 161);
+    border: 1px solid;
+    text-align: center;
+    text-decoration: none;
+}
+a:hover{
+    background-color: rgb(223, 223, 223);
+}
+
+p{
+    color: #073B4C;
+    font-family: 'Chango', cursive;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 90px;
+}
